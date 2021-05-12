@@ -10,5 +10,8 @@ Supported versions
 ## Rundown 4 EXT
 - [21989](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/21989.json)
 
+## Rundown 5
+- [23061](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/23061.json)
+
 
 [See the repo here](https://github.com/GTFO-Modding/MTFO-GDLT)
