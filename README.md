@@ -11,6 +11,8 @@ Supported versions
 - [21989](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/21989.json)
 
 ## Rundown 5
+- [22960](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/22960.json)
+- [22967](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/22967.json)
 - [23061](https://github.com/GTFO-Modding/MTFO-GDLT/blob/main/lookup/23061.json)
 
 
